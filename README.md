@@ -76,20 +76,17 @@ Outside of development, I spend my time exploring new technologies, improving my
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mercygold2346&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mercygold2346-cloud&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mercygold2346&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mercygold2346-cloud&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercygold2346&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercygold2346-cloud&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
 # 🌟 What I Build
 
 ✅ AI Web Applications
