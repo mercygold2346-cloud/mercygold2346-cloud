@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="eee09941-2967-45ff-9921-c6e00f7ec3af (1)" src="https://github.com/user-attachments/assets/5c6f8ef3-59a7-425b-a0c0-f95f2db61882" />
 <div align="center">
 
 # 👋 Hi, I'm Mercy Gold
